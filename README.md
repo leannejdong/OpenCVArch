@@ -1,4 +1,7 @@
-# Install OpenCV C++ on Arch Linux (Similar to Debian)
+# Install OpenCV C++ on Arch Linux 
+
+The instruction is very similar to Debian-based distro
+https://docs.opencv.org/3.4/d7/d9f/tutorial_linux_install.html
 
 ## Dependency
 
