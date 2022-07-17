@@ -1,4 +1,8 @@
-# Install OpenCV C++ on Arch Linux
+# Install OpenCV C++ on Arch Linux (Similar to Debian)
+
+## Dependency
+
+`cmake, make, git, gtk2, pkgconf`
 
 `cd ~/<my_working_directory>
 git clone https://github.com/opencv/opencv.git`
